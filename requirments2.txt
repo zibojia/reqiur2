@@ -102,7 +102,6 @@ testpath==0.4.4
 tornado==6.0.3
 tqdm==4.42.1
 traitlets==4.3.3
-unattended-upgrades==0.1
 uritemplate==3.0.1
 urllib3==1.25.7
 virtualenv==20.0.4
